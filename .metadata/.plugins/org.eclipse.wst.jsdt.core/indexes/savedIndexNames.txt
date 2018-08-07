@@ -1,0 +1,3 @@
+INDEX VERSION 1.3+C:\Users\Asus TP500L\Desktop\vilma\ciclo VIII\analisis\proyectoM1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+24779131.index
+1912985978.index
